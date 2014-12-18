@@ -1,0 +1,22 @@
+{
+  "name": "flow-interfaces-jquery",
+  "version": "0.0.0",
+  "homepage": "https://github.com/solnetdigital/flow-interfaces-jquery",
+  "authors": [
+    "Michael Robinson <michael.robinson@solnet.co.nz>"
+  ],
+  "description": "Flow interfaces for jQuery",
+  "keywords": [
+    "jQuery",
+    "Flow"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp",
+    "test",
+    "tests"
+  ]
+}
