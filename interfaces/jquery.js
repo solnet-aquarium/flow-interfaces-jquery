@@ -9,7 +9,7 @@ declare class _jQuery_ {
   attr(attributeName: string): string;
   attr(attributeName: string, value: string | number): _jQuery_;
   attr(attributes: Object): _jQuery_;
-  attr(attributeName: string, attributeCallback: jQueryCallbacks.attributeCallback): _jQuery_;
+  attr(attributeName: string, attributeCallback: _jQueryCallbacks_.attributeCallback): _jQuery_;
 }
 
 var $ = function(Element) {
